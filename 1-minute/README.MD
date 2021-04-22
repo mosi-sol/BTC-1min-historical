@@ -1,0 +1,2 @@
+pairs:
+BTC/USD
